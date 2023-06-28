@@ -8,7 +8,7 @@ body {
 
 .content {
     display: flex;
-    padding-top:100px;
+    padding-top:50px;
     margin-left: 200px;
 }
 
@@ -16,5 +16,5 @@ body {
     color: white;
     text-align: center;
     font-size: xx-large;
-    width: 100%;
+    width: 100;
 }
