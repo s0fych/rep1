@@ -1,4 +1,5 @@
 body {
-    background-color: palevioletred;
+    background-image: url(../images/image1.jpg);
+    background-size: cover;
 }
 
