@@ -1,5 +1,16 @@
 body {
-    background-image: url(../images/image1.jpg);
-    background-size: cover;
+    background-color: peru;
 }
+
+.container {
+    background-image: url(../images/image1.jpg);
+}
+
+.content {
+    display: flex;
+    padding-top:100px;
+    margin-left: 500px;
+}
+
+img
 
